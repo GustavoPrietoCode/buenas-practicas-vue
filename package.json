@@ -1,0 +1,19 @@
+{
+  "name": "buenas-practicas-vue",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoPrietoCode/buenas-practicas-vue.git"
+  },
+  "author": "Gustavo Prieto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GustavoPrietoCode/buenas-practicas-vue/issues"
+  },
+  "homepage": "https://github.com/GustavoPrietoCode/buenas-practicas-vue#readme"
+}
